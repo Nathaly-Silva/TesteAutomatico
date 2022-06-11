@@ -1,0 +1,12 @@
+C:\Users\Nathaly\Desktop\Testeful\Tester\Tester.Core\bin\Debug\net6.0\Tester.Core.deps.json
+C:\Users\Nathaly\Desktop\Testeful\Tester\Tester.Core\bin\Debug\net6.0\Tester.Core.dll
+C:\Users\Nathaly\Desktop\Testeful\Tester\Tester.Core\bin\Debug\net6.0\Tester.Core.pdb
+C:\Users\Nathaly\Desktop\Testeful\Tester\Tester.Core\obj\Debug\net6.0\Tester.Core.csproj.AssemblyReference.cache
+C:\Users\Nathaly\Desktop\Testeful\Tester\Tester.Core\obj\Debug\net6.0\Tester.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathaly\Desktop\Testeful\Tester\Tester.Core\obj\Debug\net6.0\Tester.Core.AssemblyInfoInputs.cache
+C:\Users\Nathaly\Desktop\Testeful\Tester\Tester.Core\obj\Debug\net6.0\Tester.Core.AssemblyInfo.cs
+C:\Users\Nathaly\Desktop\Testeful\Tester\Tester.Core\obj\Debug\net6.0\Tester.Core.csproj.CoreCompileInputs.cache
+C:\Users\Nathaly\Desktop\Testeful\Tester\Tester.Core\obj\Debug\net6.0\Tester.Core.dll
+C:\Users\Nathaly\Desktop\Testeful\Tester\Tester.Core\obj\Debug\net6.0\refint\Tester.Core.dll
+C:\Users\Nathaly\Desktop\Testeful\Tester\Tester.Core\obj\Debug\net6.0\Tester.Core.pdb
+C:\Users\Nathaly\Desktop\Testeful\Tester\Tester.Core\obj\Debug\net6.0\ref\Tester.Core.dll
